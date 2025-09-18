@@ -1,0 +1,8 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1418140603568623707/VzVkNdAxpfFK_7VxAmWroSGAttwDKxoFmYElRC0GYs5hq6w0eDKh4SGX2skL5f9AX6Wr",
+  "traumpalast_url": "https://leonberg.traumpalast.de/index.php/FN/8182/PID/5574.html",
+  "current_newest_date": "24.09",
+  "check_interval_minutes": 15,
+  "request_timeout_seconds": 30,
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
